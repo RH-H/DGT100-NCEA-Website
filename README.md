@@ -1,4 +1,4 @@
 # DGT100-NCEA-Website
-DGT100 Yes
+DGT100
 
-NCEA Website for school
+NCEA Website for school purposes
