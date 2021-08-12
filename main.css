@@ -1,8 +1,11 @@
 header {
+  background: #289aa9;
+  color: white;
+  font-family: 'PT Sans', sans-serif;
   padding:30px;
   text-align: center;
-  background: #1abc9c;
-  color: white;
+}
+details {
   font-family: 'PT Sans', sans-serif;
 }
 body {
@@ -12,15 +15,16 @@ nav a:hover {
   color: red;
 }
 nav p {
-  background-color: #1abc9c;
-  flex: auto;
+  background-color: #289aa9;
   display: inline;
+  flex: auto;
   text-justify: auto;
 }
 footer {
   background-color: rgb(124, 124, 124);
   color: black;
   font-family: 'DM Sans', sans-serif;
+  font-size: large;
 }
 p {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
