@@ -1,51 +1,84 @@
 header {
-  background: #289aa9;
-  color: white;
-  font-family: 'PT Sans', sans-serif;
-  padding:30px;
-  text-align: center;
+    background: #289aa9;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    padding: 20px;
+    text-align: center;
 }
+
 details {
-  font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
 }
+
 body {
-  background-color: rgb(255, 198, 198);
+    background-color: rgb(242, 194, 130);
 }
+
 nav a:hover {
-  color: red;
+    color: red;
 }
+
 nav p {
-  background-color: #289aa9;
-  display: inline;
-  flex: auto;
-  text-justify: auto;
+    background-color: #289aa9;
+    display: inline;
+    flex: auto;
+    text-justify: auto;
+    font-size: x-large;
+    padding: 2px;
 }
+
+
 /* Footer style */
+
 footer {
-  background-color: rgb(124, 124, 124);
-  color: black;
-  font-family: 'DM Sans', sans-serif;
-  font-size: large;
+    background-color: rgb(124, 124, 124);
+    color: black;
+    font-family: 'DM Sans', sans-serif;
+    font-size: large;
 }
+
+
+/*Paragraph Text*/
+
 p {
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
 }
+
+
 /* Header/H1 Text */
+
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+
 /* Footer Text */
+
 h6 {
-  background-color: rgb(124, 124, 124);
-  color: black;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: small;
+    background-color: rgb(124, 124, 124);
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
 }
+
 .row {
-  display: flex;
+    display: flex;
 }
+
 .column {
-  flex: 50%;
-  padding: 5px;
+    flex: 50%;
+    padding: 5px;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    float: left;
+}
+
+img {
+    padding: 5;
 }
