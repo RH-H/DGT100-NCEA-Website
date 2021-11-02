@@ -76,9 +76,6 @@ h2 {
 }
 
 div {
-    float: left;
-}
-
-img {
-    padding: 5;
+    float: right;
+    display: flex;
 }
